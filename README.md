@@ -54,7 +54,7 @@ Frontend Setup
 bashcd client
 npm install
 Create .env file:
-envVITE_BACKEND_URL=http://localhost:5000
+envVITE_BACKEND_URL=https://mern-authentication-app-jrwa.onrender.com/
 bashnpm run dev
 🚀 Deployment
 
